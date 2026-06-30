@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Azam Khan</h1>
 
-<!--
-**MuhammadAzam-Khan/MuhammadAzam-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+AI/ML Student • Python Learner • Digital Marketing Specialist
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 AI & Machine Learning Studet.
+- 📈 Skilled in Meta Ads, TikTok Ads, YouTube Ads & Performance Marketing
+  
+---
+
+## 🛠️ Tech & Tools
+
+**Learning**
+- Python
+- Machine Learning
+- Git & GitHub
+
+**Experienced**
+- Meta Ads
+- TikTok Ads
+- YouTube Ads
+- Social Media Marketing
+- Performance Marketing
+
+---
+
+## 📫 Connect With Me
+
+📧 **azamjamil0333@gmail.com**
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/muhammad-azam-khan-8a151b417/
+
+---
+
+> *"Learn deeply. Build consistently. Create impact."* 
