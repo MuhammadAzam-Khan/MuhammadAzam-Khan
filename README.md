@@ -141,9 +141,10 @@ I don't just watch tutorials. Every concept I learn gets committed to GitHub. If
 ## 📊 The Numbers Don't Lie
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzam-Khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAzam-Khan&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" height="165" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAzam-Khan&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" alt="Streak Stats"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzam-Khan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B35" width="95%" alt="Contribution Graph"/>
@@ -165,13 +166,16 @@ I don't just watch tutorials. Every concept I learn gets committed to GitHub. If
 ## 🌟 Featured Work
 
 <div align="center">
-  <a href="https://github.com/MuhammadAzam-Khan/mtech-internship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzam-Khan&repo=mtech-internship&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="MTech Internship Repo"/>
-  </a>
-</div>
 
-<div align="center">
-  <sub>📅 Daily progress, assignments, notes, and projects from my AI/ML journey. Watch this space grow.</sub>
+<a href="https://github.com/MuhammadAzam-Khan/mtech-internship">
+  <img src="https://img.shields.io/badge/📅_MTech_AI/ML_Internship-Daily_Progress_Repo-0d1117?style=for-the-badge&labelColor=36BCF7&color=0d1117" alt="MTech Internship Repo"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/github/last-commit/MuhammadAzam-Khan/mtech-internship?style=for-the-badge&label=Last%20Commit&labelColor=0d1117&color=36BCF7" alt="Last commit"/>
+<img src="https://img.shields.io/github/languages/top/MuhammadAzam-Khan/mtech-internship?style=for-the-badge&labelColor=0d1117&color=FF6B35" alt="Top language"/>
+
+<sub>📅 Daily progress, assignments, notes, and projects from my AI/ML journey. Watch this space grow.</sub>
+
 </div>
 
 <br/>
