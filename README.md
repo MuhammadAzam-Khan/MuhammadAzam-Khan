@@ -1,193 +1,210 @@
-<!-- ═══════════════════ ANIMATED WAVE BANNER ═══════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=200&section=header&text=Muhammad%20Azam%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20speak%20both%20Python%20and%20People&descAlignY=55&descSize=20" width="100%"/>
-</div>
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Azam%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20optimize%20ads%20by%20day.%20I%20train%20models%20by%20night.&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
+<!-- Animated Typing Intro -->
 <div align="center">
   <a href="https://github.com/MuhammadAzam-Khan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+Training+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Performance+Marketing+Specialist+%F0%9F%93%88;Building+one+commit+at+a+time+%E2%9A%A1;Ads+by+day.+Algorithms+by+night." alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Azam+%F0%9F%91%8B;AI+%26+Machine+Learning+Student;Python+Developer+in+Training;Performance+Marketing+Specialist;Turning+Data+Into+Decisions;Learning+One+Commit+At+A+Time" alt="Typing animation" />
   </a>
 </div>
 
 <br/>
 
-<!-- ═══════════════════ THE HOOK ═══════════════════ -->
+<!-- The Hook -->
 <div align="center">
 
-### 🧬 Most marketers can't code. Most coders can't sell. I'm building both.
+### 🧠 Most people pick a lane. I built a bridge.
 
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-8E2DE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Superpower-Performance%20Marketing-00C9FF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Learning%20in%20Public-4A00E0?style=for-the-badge&logo=github&logoColor=white"/>
+**Marketers** understand people but fear the math.
+**ML engineers** understand the math but rarely touch a live ad account.
+
+**I'm becoming the person who does both.**
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ TERMINAL INTRO ═══════════════════ -->
 ```python
 class MuhammadAzamKhan:
     def __init__(self):
-        self.role       = "AI/ML Student & Python Developer"
-        self.edge       = "Digital Marketing meets Machine Learning"
-        self.currently  = "MTech AI/ML Internship 🎓"
-        self.ads_run_on = ["Meta", "TikTok", "YouTube"]
-        self.code_runs_on = ["Python", "Coffee", "Curiosity"]
+        self.location      = "Pakistan 🇵🇰"
+        self.role          = "AI/ML Student & Performance Marketer"
+        self.currently     = ["Python", "Machine Learning", "Git & GitHub"]
+        self.superpower    = "I already A/B test for a living — ML is just A/B testing with bigger math"
+        self.daily_fuel    = ["curiosity", "chai", "one more tutorial"]
 
-    def daily_routine(self):
-        return "Learn deeply → Build consistently → Create impact"
+    def current_focus(self):
+        return "Building ML fundamentals during my MTech AI/ML internship 🚀"
 
-    def why_hire_me(self):
-        return "I don't just build models. I know how to make them matter."
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something!")
 
 me = MuhammadAzamKhan()
-print(me.why_hire_me())
+me.say_hi()
 ```
 
 <br/>
 
-<!-- ═══════════════════ TWO WORLDS TABLE ═══════════════════ -->
-<div align="center">
+## ⚔️ Two Worlds, One Mission
 
-## ⚔️ Two Worlds, One Brain
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🤖 The Builder Side
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,tensorflow&perline=5" />
+### 🤖 The World I'm Conquering
 
-**Currently mastering:**<br/>
-Python • Machine Learning • Data Science<br/>
-Git & GitHub • Model Building
+Currently leveling up through my **MTech AI/ML Internship**
 
-<img src="https://img.shields.io/badge/⚡-Leveling%20Up%20Daily-8E2DE2?style=flat-square"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Learning Progress**
+
+```text
+Python          ██████████░░░░░░░░░░  Learning fast 📈
+Machine Learning ███████░░░░░░░░░░░░░  Foundations 🏗️
+Git & GitHub    ████████░░░░░░░░░░░░  Committing daily ✅
+```
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 📈 The Growth Side
-<img src="https://img.shields.io/badge/Meta%20Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/YouTube%20Ads-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+### 📈 The World I Already Rule
 
-**Battle-tested in:**<br/>
-Performance Marketing • Social Media Strategy<br/>
-Campaign Optimization • Audience Targeting
+Years of running real campaigns with real budgets
+
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![YouTube Ads](https://img.shields.io/badge/YouTube_Ads-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Google](https://img.shields.io/badge/Performance_Marketing-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+**Battle-Tested Skills**
+
+```text
+Meta Ads         ████████████████████  Expert 🏆
+TikTok Ads       ████████████████████  Expert 🏆
+YouTube Ads      ██████████████████░░  Advanced 💪
+Social Media     ███████████████████░  Advanced 💪
+```
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<!-- ═══════════════════ INTERACTIVE COLLAPSIBLES ═══════════════════ -->
-## 🎮 Explore My World <sub><sup>(click to expand)</sup></sub>
+## 🎯 Why This Combo Is Dangerous (In A Good Way)
 
 <details>
-<summary>🚀 &nbsp;<b>What I'm building right now</b></summary>
+<summary><b>🔮 Click to see where I'm headed →</b></summary>
 <br/>
 
-- 🎓 **MTech AI/ML Internship** → daily progress, assignments, notes & projects, all documented publicly in [`mtech-internship`](https://github.com/MuhammadAzam-Khan/mtech-internship)
-- 🐍 Sharpening **Python** fundamentals into production-level skills
-- 🧠 Going from "using AI" to "**building AI**"
+| Marketing Skill I Have | + ML Skill I'm Building | = Future Superpower |
+|---|---|---|
+| Audience targeting | Clustering algorithms | Smarter customer segmentation |
+| A/B testing ads | Statistical modeling | Predictive campaign optimization |
+| Reading ad metrics | Data analysis with Pandas | Automated performance insights |
+| Creative testing | Recommendation systems | AI-driven creative strategy |
+
+**The end goal:** Build AI tools that make marketing smarter, and be the rare person who speaks both languages fluently.
 
 </details>
 
 <details>
-<summary>🎯 &nbsp;<b>The mission</b></summary>
+<summary><b>📚 Click to see what I'm learning right now →</b></summary>
 <br/>
 
-Millions of businesses waste money on ads that don't convert. Machine learning can fix that. My goal: sit exactly at the intersection where **AI models meet marketing money**, building intelligent systems that make growth predictable instead of lucky.
+- 🐍 **Python fundamentals** — data structures, functions, OOP
+- 📊 **Data handling** — NumPy, Pandas, real datasets
+- 🤖 **ML foundations** — supervised learning, model evaluation
+- 🔧 **Developer workflow** — Git, GitHub, writing clean code
+- 📝 Everything documented in my [MTech Internship repo](https://github.com/MuhammadAzam-Khan/mtech-internship)
 
 </details>
 
 <details>
-<summary>🤝 &nbsp;<b>Why you should connect with me</b></summary>
+<summary><b>💡 Click for my learning philosophy →</b></summary>
 <br/>
 
-- If you're an **AI/ML learner**, let's grow together. I learn in public and share everything.
-- If you're a **recruiter**, you're looking at someone who understands both the tech and the business it serves.
-- If you're a **founder**, I know why your ads underperform AND how data can fix it.
+> *"Learn deeply. Build consistently. Create impact."*
 
-</details>
-
-<details>
-<summary>⚡ &nbsp;<b>Fun facts</b></summary>
-<br/>
-
-- 💬 I can explain a neural network AND a retargeting funnel in the same breath
-- 🌙 My commits peak at night. That's when the real learning happens
-- 📊 I see everything as an optimization problem, including my own learning curve
+I don't just watch tutorials. Every concept I learn gets committed to GitHub. If it's not in a repo, I haven't really learned it. That's why my internship repo has daily progress, notes, and projects — receipts of the grind.
 
 </details>
 
 <br/>
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+## 📊 The Numbers Don't Lie
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzam-Khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAzam-Khan&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" height="165" alt="Streak Stats"/>
+</div>
 
-## 📊 My Journey in Numbers
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzam-Khan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8E2DE2&icon_color=00C9FF&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAzam-Khan&theme=midnight-purple&hide_border=true&background=0d1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzam-Khan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8E2DE2" height="140"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzam-Khan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B35" width="95%" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<!-- Contribution Snake Animation -->
 <div align="center">
-
-## 🐍 Watch the Snake Eat My Commits
-
-<img src="https://raw.githubusercontent.com/MuhammadAzam-Khan/MuhammadAzam-Khan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAzam-Khan/MuhammadAzam-Khan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAzam-Khan/MuhammadAzam-Khan/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MuhammadAzam-Khan/MuhammadAzam-Khan/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br/>
 
-<!-- ═══════════════════ QUOTE ═══════════════════ -->
+## 🌟 Featured Work
+
 <div align="center">
+  <a href="https://github.com/MuhammadAzam-Khan/mtech-internship">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzam-Khan&repo=mtech-internship&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="MTech Internship Repo"/>
+  </a>
+</div>
 
-## 🧭 The Code I Live By
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learn%20deeply.%20Build%20consistently.%20Create%20impact.&author=My%20daily%20reminder"/>
-
+<div align="center">
+  <sub>📅 Daily progress, assignments, notes, and projects from my AI/ML journey. Watch this space grow.</sub>
 </div>
 
 <br/>
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+## 🤝 Let's Connect
+
 <div align="center">
 
-## 📡 Let's Connect
+*Whether you want to talk ML, marketing, or the messy beautiful overlap between the two:*
+
+<br/>
 
 <a href="https://www.linkedin.com/in/muhammad-azam-khan-8a151b417/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="mailto:azamjamil0333@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
-<a href="https://github.com/MuhammadAzam-Khan?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/MuhammadAzam-Khan?tab=followers">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadAzam-Khan&style=for-the-badge&color=8E2DE2&label=PROFILE+VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=MuhammadAzam-Khan&style=for-the-badge&color=36BCF7&label=PROFILE+VISITS" alt="Profile views"/>
 
 </div>
 
-<!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+  <i>⚡ "Learn deeply. Build consistently. Create impact." ⚡</i>
 </div>
+
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
